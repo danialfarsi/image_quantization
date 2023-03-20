@@ -17,4 +17,5 @@ Quantization can result in a loss of image quality, as the original smooth trans
 to(with 120 gray scale level) :
 
 
-![download (8)](https://user-images.githubusercontent.com/43178887/226164851-d74c6dd4-4c86-4d40-92d9-2fe07f2439e8.png)
+![download (9)](https://user-images.githubusercontent.com/43178887/226271033-134d87c3-d9ce-44bf-882f-0f852fc0baaa.png)
+
